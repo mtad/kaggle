@@ -1,2 +1,2 @@
 # kaggle
-my kaggle solutions
+My kaggle solutions
